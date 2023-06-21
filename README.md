@@ -8,7 +8,7 @@
 [[`Paper`](https://kdd.org/kdd2023/workshops/)] 
 [[`Default SAM`](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth)]
 [[`Fine Tuned SAM`](https://drive.google.com/file/d/1mvh81GEjU7Z2ExLVQyUotMUV0l84UpO0/view?usp=drive_link)] 
-[[`Dataset`](https://alvideo.ameslab.gov/archive/bpa-videos/l)] 
+[[`Dataset`](https://alvideo.ameslab.gov/archive/bpa-videos/)]
 [[`BibTeX`](#Citing-Paper)]
 
 ## Introduction: 
